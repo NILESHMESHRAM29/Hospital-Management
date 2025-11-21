@@ -1,4 +1,5 @@
 Hospital Management System API
+
 ASP.NET Core Web API + JWT Authentication + Redis Token Blacklisting
 
 A secure, scalable, and modern Hospital Management backend built using ASP.NET Core Web API, Entity Framework Core, JWT Authentication, and Redis for token blacklisting.
